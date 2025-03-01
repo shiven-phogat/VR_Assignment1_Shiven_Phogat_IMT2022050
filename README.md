@@ -4,6 +4,9 @@
 
 This assignment has 2 parts. You can find the code for each part in separate directories. Each directory has input images that must be present in your system at time of running .
 
+Github Link:
+https://github.com/shiven-phogat/VR_Assignment1_Shiven_Phogat_IMT2022050/tree/main
+
 ## Prerequisites
 
 Before running the code, ensure you have the following installed:
@@ -74,12 +77,12 @@ please note you will have to change the file paths manually for each image
 
 ### Coin detection:-
 ![segmented Coins](Part_1/output_images/coins_b_segmented.png)
-![detected_edges](output_images/coins/detected_edges.jpeg)
-![edges_overlayed_on_coins](output_images/coins/edges_overlayed_on_coins.jpeg)
-![total_coins](output_images/coins/total_coins.jpeg)
+![detected_edges](Part_1/output_images/coins_a.png)
+![Segmented coins](Part_1/output_images/coins_b.png)
+![total_coins](Part_1/output_images/coins_c.png)
 
 ### Panorama Stiching:-
-![stitched_panorama](output_images/panorama/stitched_panorama.jpg)
+![stitched_panorama](Part_2/output_images/panorama.jpg)
 
 ## Observations
 - **[1]**: A few of the inscribings in the coins were also detected as edges.
