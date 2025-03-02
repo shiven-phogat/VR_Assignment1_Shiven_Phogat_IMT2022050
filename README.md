@@ -76,13 +76,13 @@ please note you will have to change the file paths manually for each image
 ## Results
 
 ### Coin detection:-
-![segmented Coins](Part_1/output_images/coins_b_segmented.png)
-![detected_edges](Part_1/output_images/coins_a.png)
-![Segmented coins](Part_1/output_images/coins_b.png)
-![total_coins](Part_1/output_images/coins_c.png)
+![segmented Coins](Part_1/output_images/case_1/coins_b_segmented.png)
+![detected_edges](Part_1/output_images/case_1/coins_a.png)
+![Segmented coins](Part_1/output_images/case_1/coins_b.png)
+![total_coins](Part_1/output_images/case_1/coins_c.png)
 
 ### Panorama Stiching:-
-![stitched_panorama](Part_2/output_images/panorama.jpg)
+![stitched_panorama](Part_2/output_images/case_1/panorama.jpg)
 
 ## Observations
 - **[1]**: A few of the inscribings in the coins were also detected as edges.
